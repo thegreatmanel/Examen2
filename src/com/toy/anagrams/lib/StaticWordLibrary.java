@@ -28,6 +28,9 @@
  */
 
 /* Anagram Game Application */
+/* Examen COD               */
+/* 1era Evaluacion          */
+/* GIT                      */
 
 package com.toy.anagrams.lib;
 
